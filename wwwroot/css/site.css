@@ -16,3 +16,20 @@ html {
 body {
   margin-bottom: 60px;
 }
+
+.container {
+    text-align: center;
+}
+
+h1 {
+    padding: 50px 50px 20px 50px;
+}
+
+#title {
+    padding: 0px;
+    
+}
+
+#myfile {
+    padding: 20px;
+}
